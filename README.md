@@ -147,6 +147,6 @@ The airframe was manufactured using a hybrid 3D-printing and epoxy-reinforcement
 ├── Docs/             # 2D engineering drawings (PDF)
 └── Media/
     ├── 01_Designing/ # Hand sketches, concept iterations
-    ├── 02_CAD/       # High-res assembly renders, section views
+    ├── 02_CAD/       # High-res assembly renders
     ├── 03_Construction/     # 3D printing process, resin coating, painting
     └── 04_Final Product/     # Completed airframe photos, beauty shots, ground test clips
