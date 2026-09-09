@@ -12,6 +12,7 @@
 
 ### Forward FPV Navigation Camera in Nose
 <img width="3024" height="4032" alt="20240320_182113" src="https://github.com/user-attachments/assets/6a826812-df08-4f61-a89c-bf13c3e486ea" />
+<img width="4032" height="3024" alt="20240324_104044" src="https://github.com/user-attachments/assets/7a014f61-6e81-4526-b81e-4cebee9ab8ae" />
 
 ---
 
