@@ -1,5 +1,6 @@
 ### Final Product
-<img width="4032" height="3024" alt="20240324_115144" src="https://github.com/user-attachments/assets/c6c378b8-d9e1-4aad-a694-48be40dba033" />
+<img width="4032" height="3024" alt="20240324_115144" src="https://github.com/user-attachments/assets/42ef4b5d-b456-4dee-84f3-52f44b96d1c3" />
+
 
 <img width="3024" height="4032" alt="20240320_181621" src="https://github.com/user-attachments/assets/a28d89d0-255b-425e-89e4-0641c3ce4b3f" />
 
