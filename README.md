@@ -4,7 +4,7 @@
 
 
 ## 📌 Overview & Design Philosophy
-The SAR (Search-and-Rescue) fixed-wing UAV is a 1.5m wingspan autonomous airframe engineered for Search & Rescue operations, developed as an A-Level Design & Technology project (Awarded Grade A*). 
+The SAR (Search-and-Rescue) fixed-wing UAV is a 1.5m wingspan autonomous airframe engineered for Search & Rescue operations. 
 
 While multirotors dominate the SAR industry due to tight-space manoeuvrability, primary user research conducted across four UK SAR agencies (Dartmoor, Northants, London, and Brecon) highlighted a critical gap: large-area grid searches require the extended range and endurance that only a fixed-wing platform can provide.
 
